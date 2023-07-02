@@ -1,9 +1,11 @@
 # Watch Next Recommendation System
 
 ## Project Description
+
 The Watch Next Recommendation System is a project that utilises word vector similarity to recommend movies based on their descriptions. The system aims to provide users with suggestions on what movie to watch next by finding the most similar movie to a given description.
 
 ## Table of Contents
+
 - [Introduction to Semantic Similarity](#introd)
 - [Project Setup](#proj)
 - [Usage Instructions](#usage)
@@ -21,10 +23,18 @@ Semantic similarity plays a crucial role in recommendation systems and informati
 <a name="proj"></a>
 ## Project Setup
 
-To install the Watch Next Recommendation System locally, follow these steps:
-1. Clone the repository to your local machine.
-2. Make sure you have Python installed.
-3. Install the required dependencies by running the command: `pip install -r requirements.txt`.
+To set up the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/ghelaseG/finalCapstone.git`
+2. Navigate to the project directory: `cd your_project`
+3. Install the required dependencies: `pip install spacy` and 'python -m spacy download en_core_web_md'
+4. Run the Python script: `python watch_next.py`
+
+Ensure that you have Python and pip installed on your system before proceeding with the installation.
+
+Please note that the system relies on spaCy library with the Medium Language Module Scorer for word vector similarity calculations.
+
+For more info about how to setup the project please use this [YouTube link](https://www.youtube.com/watch?v=q9wc7hUrW8U).
 
 <a name="usage"></a>
 ## Usage Instructions
@@ -48,14 +58,22 @@ Based on this description, the system will recommend the next movie that is most
 <a name="screen"></a>
 ## Screenshots
 
-![Watch Next Recommendation System in Action](screenshot.png)
+Create a function to return which movies a user would watch next if they have watched Planet Hulk with the description “Will he save
+their world or destroy it? When the Hulk becomes too dangerous for the Earth, the Illuminati trick Hulk into a shuttle and launch him into space to a
+planet where the Hulk can live in peace. Unfortunately, Hulk lands on the planet Sakaar where he is sold into slavery and trained as a gladiator.”
 
-Please note that the system relies on spaCy library with the Medium Language Module Scorer for word vector similarity calculations.
+The function should take in the description as a parameter and return the title of the most similar movie.
+
+![5](https://github.com/ghelaseG/finalCapstone/assets/96828940/0abb1763-534e-44a4-bf3a-88a8393b0b3b)
+
+![6](https://github.com/ghelaseG/finalCapstone/assets/96828940/227aa38e-882e-4496-b9ea-e48b1043633a)
+
 
 For more details on how the system works, refer to the code comments in the `watch_next.py` file.
 
 <a name="conc"></a>
 ## Conclusion
 
-The Watch Next Recommendation System revolutionises movie selection by leveraging word vector similarity in natural language processing. With an intuitive installation process, user-friendly interface, and impactful screenshots, this system delivers personalised movie recommendations based on previously watched films. Enhance your movie-watching experience and let the system guide you to your next cinematic adventure!
+The Watch Next Recommendation System revolutionises movie selection by leveraging word vector similarity in natural language processing. With an intuitive installation process, user-friendly interface, and impactful screenshots, this system delivers personalised movie recommendations based on previously watched films.
 
+For more information on spaCy and its features, visit the [spaCy documentation](https://spacy.io/).
