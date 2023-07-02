@@ -8,12 +8,13 @@ The main goal of this project is to showcase how spaCy's named entity recognitio
 
 ## Table of Contents
 
-- Introduction to Garden Path Sentences
+- [Introduction to Garden Path Sentences](#introd)
 - Project Setup
 - Usage Instructions
 - Example Garden Path Sentences
 - Conclusion
 
+<a name="introd"></a>
 ## Introduction to Garden Path Sentences
 
 Garden path sentences are linguistic constructions that lead readers or listeners to interpret them in a certain way initially. However, as the sentence progresses, a different interpretation emerges, often causing momentary confusion. These sentences challenge the natural language understanding abilities of both humans and NLP models.
@@ -70,8 +71,9 @@ Examine how spaCy has categorised each sentence. Then, use spacy.explain to look
 ![3](https://github.com/ghelaseG/finalCapstone/assets/96828940/d2679cd1-2a28-413d-b0e1-2ac06a71065c)
 
 Write a comment about two entities that you looked up. For each entity answer the following questions:
-○ What was the entity and its explanation that you looked up?
-○ Did the entity make sense in terms of the word associated with it?
+
+  - What was the entity and its explanation that you looked up?
+  - Did the entity make sense in terms of the word associated with it?
 
 ![4](https://github.com/ghelaseG/finalCapstone/assets/96828940/a0f74e24-af6e-43b5-b4c1-237fcc7f4bb7)
 
