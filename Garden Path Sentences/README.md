@@ -29,10 +29,12 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/ghelaseG/finalCapstone.git`
 2. Navigate to the project directory: `cd your_project`
-3. Install the required dependencies: `pip install spacy`
+3. Install the required dependencies: `pip install spacy` and 'python -m spacy download en_core_web_sm'
 4. Run the Python script: `python garden.py`
 
 Ensure that you have Python and pip installed on your system before proceeding with the installation.
+
+Please note that the system relies on spaCy library with the Medium Language Module Scorer for word vector similarity calculations.
 
 For more info about how to setup the project please use this [YouTube link](https://www.youtube.com/watch?v=q9wc7hUrW8U).
 
