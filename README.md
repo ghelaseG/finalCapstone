@@ -56,7 +56,7 @@ The NLP and Google Search project explore the pivotal role that Natural Language
 
 Uncover the synergy between NLP and Google Search, showcasing the transformative potential of NLP in revolutionising information retrieval and user experience.
 
-Through these projects, we invite you to delve into the fascinating world of NLP, explore its applications, and appreciate its significant impact on various aspects of our digital lives.
+*Through these projects, we invite you to delve into the fascinating world of NLP, explore its applications, and appreciate its significant impact on various aspects of our digital lives.*
 
 ## References
 HyperionDev (2023) DS T22 - Capstone Project - NLP
