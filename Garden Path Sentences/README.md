@@ -84,6 +84,8 @@ Write a comment about two entities that you looked up. For each entity answer th
 
 ![4](https://github.com/ghelaseG/finalCapstone/assets/96828940/a0f74e24-af6e-43b5-b4c1-237fcc7f4bb7)
 
+For more details on how the system works, refer to the code comments in the `garden.py` file.
+
 <a name="conc"></a>
 ## Conclusion
 
