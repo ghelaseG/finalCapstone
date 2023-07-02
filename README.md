@@ -21,6 +21,8 @@ To use any of the projects in this repository, follow these steps:
 3. Install the required dependencies.
 4. Run the Python script.
 
+For more info about how to setup the project please use this [YouTube link](https://www.youtube.com/watch?v=q9wc7hUrW8U).
+
 <a name="usage"></a>
 ## Usage Instructions
 
@@ -60,10 +62,12 @@ Through these projects, we invite you to delve into the fascinating world of NLP
 HyperionDev (2023) DS T22 - Capstone Project - NLP
 [Online Coding Bootcamps | Learn to Code | HyperionDev
 ](https://www.hyperiondev.com/)
+
 Oberlo (2023) SEARCH ENGINE MARKET SHARE IN 2023. Available at:
 https://www.oberlo.com/statistics/search-engine-market-share#:~:text=Handling%20over%2
 090%25%20of%20all,done%20through%20the%20internet%20giant (Accessed: 18 June
 2023).
+
 Vinutha M, M C Padma, (2023) 'Insights into Search Engine Optimization using
 Natural Language Processing and Machine Learning', International Journal of Advanced
 Computer Science and Applications, Vol. 14, No. 2, 2023. Available at:
@@ -71,6 +75,7 @@ https://www.researchgate.net/profile/Vinutha-Ms/publication/369039446_Insights_i
 h_Engine_Optimization_using_Natural_Language_Processing_and_Machine_Learning/links
 /643e1edae881690c4be0722a/Insights-into-Search-Engine-Optimization-using-Natural-Lang
 uage-Processing-and-Machine-Learning.pdf
+
 Google Cloud (2023) What is Natural Language Processing? Available at:
 https://cloud.google.com/learn/what-is-natural-language-processing
 (Accessed: 18 June 2023)
