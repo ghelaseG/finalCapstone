@@ -10,6 +10,7 @@ Welcome to the NLP Projects repository! This repository contains a collection of
 - [Project 2: Semantic Similarity](#project2)
 - [Project 3.1: NLP Application Categorization](#project3)
 - [Project 3.2: NLP and Google Search](#project4)
+- [References](#ref)
 
 <a name="proj"></a>
 ## Project Setup
@@ -58,6 +59,7 @@ Uncover the synergy between NLP and Google Search, showcasing the transformative
 
 *Through these projects, we invite you to delve into the fascinating world of NLP, explore its applications, and appreciate its significant impact on various aspects of our digital lives.*
 
+<a name="ref"></a>
 ## References
 HyperionDev (2023) DS T22 - Capstone Project - NLP
 [Online Coding Bootcamps | Learn to Code | HyperionDev
