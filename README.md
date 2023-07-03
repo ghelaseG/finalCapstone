@@ -4,7 +4,6 @@ Welcome to the NLP Projects repository! This repository contains a collection of
 
 ## Table of Contents
 
-- [Project Setup](#proj)
 - [Usage Instructions](#usage)
 - [Project 1: Garden Path Sentences](#project1)
 - [Project 2: Semantic Similarity](#project2)
@@ -12,17 +11,6 @@ Welcome to the NLP Projects repository! This repository contains a collection of
 - [Project 3.2: NLP and Google Search](#project4)
 - [References](#ref)
 
-<a name="proj"></a>
-## Project Setup
-
-To use any of the projects in this repository, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/ghelaseG/finalCapstone.git`.
-2. Navigate to the project directory: `cd your_project`.
-3. Install the required dependencies.
-4. Run the Python script.
-
-For more info about how to setup the project please use this [YouTube link](https://www.youtube.com/watch?v=q9wc7hUrW8U).
 
 <a name="usage"></a>
 ## Usage Instructions
