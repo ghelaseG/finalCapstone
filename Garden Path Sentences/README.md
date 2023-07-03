@@ -2,9 +2,7 @@
 
 ## Project Description
 
-The Garden Path Sentences with spaCy project explores the phenomenon of garden path sentences and demonstrates their analysis using the open-source natural language processing (NLP) library spaCy. Garden path sentences are sentences that initially lead readers or listeners to interpret them in a certain way, but as the sentence progresses, a different interpretation emerges, often causing temporary confusion.
-
-The main goal of this project is to showcase how spaCy's named entity recognition (NER) capabilities can handle garden path sentences. It demonstrates the tokenisation of each sentence and the subsequent identification and categorisation of named entities. Additionally, it utilises the `spacy.explain` function to provide explanations for the entity types.
+The Garden Path Sentences with spaCy project serves as an educational example to explore the complexities of language processing and the challenges faced in natural language understanding. By analysing garden path sentences and leveraging spaCy's NLP capabilities, we gain insights into how NLP models handle sentence tokenisation, named entity recognition, and entity categorisation. It demonstrates the tokenisation of each sentence and the subsequent identification and categorisation of named entities. Additionally, it utilises the `spacy.explain` function to provide explanations for the entity types.
 
 ## Table of Contents
 
@@ -13,7 +11,6 @@ The main goal of this project is to showcase how spaCy's named entity recognitio
 - [Usage Instructions](#usage)
 - [Example Garden Path Sentences](#example)
 - [Screenshots](#screen)
-- [Conclusion](#conc)
 
 <a name="introd"></a>
 ## Introduction to Garden Path Sentences
@@ -37,6 +34,8 @@ Ensure that you have Python and pip installed on your system before proceeding w
 Please note that the system relies on spaCy library with the Medium Language Module Scorer for word vector similarity calculations.
 
 For more info about how to setup the project please use this [YouTube link](https://www.youtube.com/watch?v=q9wc7hUrW8U).
+
+For more information on spaCy and its features, visit the [spaCy documentation](https://spacy.io/).
 
 <a name="usage"></a>
 ## Usage Instructions
@@ -85,10 +84,3 @@ Write a comment about two entities that you looked up. For each entity answer th
 ![4](https://github.com/ghelaseG/finalCapstone/assets/96828940/a0f74e24-af6e-43b5-b4c1-237fcc7f4bb7)
 
 For more details on how the system works, refer to the code comments in the `garden.py` file.
-
-<a name="conc"></a>
-## Conclusion
-
-The Garden Path Sentences with spaCy project serves as an educational example to explore the complexities of language processing and the challenges faced in natural language understanding. By analysing garden path sentences and leveraging spaCy's NLP capabilities, we gain insights into how NLP models handle sentence tokenisation, named entity recognition, and entity categorisation.
-
-For more information on spaCy and its features, visit the [spaCy documentation](https://spacy.io/).
