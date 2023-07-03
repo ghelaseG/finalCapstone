@@ -2,8 +2,7 @@
 
 ## Project Description
 
-The Garden Path Sentences with spaCy project serves as an educational example to explore the complexities of language processing and the challenges faced in natural language understanding. By analysing garden path sentences and leveraging spaCy's NLP capabilities, we gain insights into how NLP models handle sentence tokenisation, named entity recognition, and entity categorisation. It demonstrates the tokenisation of each sentence and the subsequent identification and categorisation of named entities. Additionally, it utilises the `spacy.explain` function to provide explanations for the entity types.
-
+The Garden Path Sentences with spaCy project serves as an educational example to explore the complexities of language processing and the challenges faced in natural language understanding. We gain insights into how NLP models handle sentence tokenisation, named entity recognition, and entity categorisation and it demonstrates the tokenisation of each sentence and the subsequent identification and categorisation of named entities.
 ## Table of Contents
 
 - [Introduction to Garden Path Sentences](#introd)
