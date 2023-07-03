@@ -2,7 +2,8 @@
 
 ## Project Description
 
-The Watch Next Recommendation System is a project that utilises word vector similarity to recommend movies based on their descriptions. The system aims to provide users with suggestions on what movie to watch next by finding the most similar movie to a given description.
+The Watch Next Recommendation System is a project that utilises word vector similarity in natural language processing to recommend movies based on their descriptions. The system aims to provide users with suggestions on what movie to watch next by finding the most similar movie to a given description.
+
 
 ## Table of Contents
 
@@ -11,14 +12,13 @@ The Watch Next Recommendation System is a project that utilises word vector simi
 - [Usage Instructions](#usage)
 - [Example Semantic Similarity](#example)
 - [Screenshots](#screen)
-- [Conclusion](#conc)
 
 <a name="introd"></a>
 ## Introduction to Semantic Similarity
 
 Semantic similarity is a fundamental concept in natural language processing (NLP) that measures the likeness or resemblance between text based on their meaning. 
 
-Semantic similarity plays a crucial role in recommendation systems and information retrieval
+Semantic similarity plays a crucial role in recommendation systems and information retrieval.
 
 <a name="proj"></a>
 ## Project Setup
@@ -35,6 +35,8 @@ Ensure that you have Python and pip installed on your system before proceeding w
 Please note that the system relies on spaCy library with the Medium Language Module Scorer for word vector similarity calculations.
 
 For more info about how to setup the project please use this [YouTube link](https://www.youtube.com/watch?v=q9wc7hUrW8U).
+
+For more information on spaCy and its features, visit the [spaCy documentation](https://spacy.io/).
 
 <a name="usage"></a>
 ## Usage Instructions
@@ -71,9 +73,3 @@ The function should take in the description as a parameter and return the title 
 
 For more details on how the system works, refer to the code comments in the `watch_next.py` file.
 
-<a name="conc"></a>
-## Conclusion
-
-The Watch Next Recommendation System revolutionises movie selection by leveraging word vector similarity in natural language processing. With an intuitive installation process, user-friendly interface, and impactful screenshots, this system delivers personalised movie recommendations based on previously watched films.
-
-For more information on spaCy and its features, visit the [spaCy documentation](https://spacy.io/).
